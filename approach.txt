@@ -1,0 +1,18 @@
+Step 1: Always read the question in detail to understand the below points
+        i) What are the fields we need in the output
+        ii) What are the conditions we need to consider
+        iii) Understand the basic solving category
+
+Step 2: Always read the input and sample to understand the below points
+        i) What are the tables involded
+        ii) What are the fields and their respective data types
+        iii) What will be the join condition in case of multiple tables
+        iv) Envision the output
+
+Step 3: Write down the approach and include the following
+        i) What should be in the select statement
+        ii) Will there be a need for a CTE or others
+        iii) What should be the join
+        iv) What should be the where condition
+        v) What should be the group by condition and having if needed
+        vi) If there is a need for sub queries and window functions
